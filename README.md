@@ -1,2 +1,3 @@
 # Hello-World
-This is hello world. The most sophisticated program in the world.
+Hello World,
+  I am here to program and do things.
